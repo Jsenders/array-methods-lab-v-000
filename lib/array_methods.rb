@@ -3,26 +3,26 @@ array.include?(element)
 end
 
 def using_sort(array)
-array = ["lil' bub", "grumpy cat", "maru"]
+array = ["wow", "I", "am", "really", "learning", "arrays!"]
 array.sort
 end
 
 def using_reverse(array)
-array = ["lil' bub", "grumpy cat", "maru"]
+array = ["wow", "I", "am", "really", "learning", "arrays!"]
 array.reverse
 end
 
 def using_first(array)
-array = ["lil' bub", "grumpy cat", "maru"]
+array = ["wow", "I", "am", "really", "learning", "arrays!"]
 array.first
 end
 
 def using_last(array)
-array = ["lil' bub", "grumpy cat", "maru"]
+array = ["wow", "I", "am", "really", "learning", "arrays!"]
 array.last
 end
 
 def using_size(array)
-array = ["lil' bub", "grumpy cat", "maru"]
+array = ["wow", "I", "am", "really", "learning", "arrays!"]
 array.size
 end
